@@ -1,4 +1,4 @@
-Snacks-Challenge
+Snack-Time-Challenge
 ================
 
 A quiz app
