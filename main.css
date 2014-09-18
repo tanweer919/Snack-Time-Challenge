@@ -1,0 +1,98 @@
+.body{
+background-color: rgb(243,243,243);
+}
+#heading{
+font-size: 24pt;
+margin: 10px;
+color: blue;
+text-shadow: 2px 2px 2px red,0 0 10px rgb(250,26,20);
+font-family: 'trebuchet ms';
+padding: 20px;
+text-align: center;
+background-color: rgb(151,245,253);
+}
+#heading:hover{
+font-size: 24pt;
+margin: 10px;
+color: rgb(242,248,22);
+text-shadow: 2px 2px 2px rgb(250,57,57),0 0 10px rgb(35,24,245);
+font-family: 'trebuchet ms';
+padding: 20px;
+background-color: rgb(187,230,174);
+text-align: center;
+}
+#but{
+font-size: 20pt;
+background-color: rgb(249,251,153);
+}
+#q{
+  font-size: 20pt;
+  text-align: center;
+}
+.space{
+  margin: 10px;
+  height: 230px;
+  padding: 20px;
+  background-color: rgb(207,197,206);
+  overflow-y: scroll;
+}
+#q:hover{
+  text-shadow: 4px 4px 4px red,0 0 10px #0f0;
+}
+#o
+{
+  background-color: #fff;
+  margin: 15px;
+  padding: 5px;
+  height: 20px;
+  text-align: center;
+}
+#t{
+  background-color: #fff;
+  margin: 15px;
+  padding: 5px;
+  height: 20px;
+  text-align: center;
+}
+#tt{
+  background-color: #fff;
+  margin: 15px;
+  padding: 5px;
+  height: 20px;
+  text-align: center;
+}
+#f{
+  background-color: #fff;
+  margin: 15px;
+  padding: 5px;
+  height: 20px;
+  text-align: center;
+}
+#o:hover{
+  background-color: #f00;
+  margin: 15px;
+  padding: 5px;
+  height: 20px;
+  text-align: center;
+}
+#t:hover{
+  background-color: #f00;
+  margin: 15px;
+  padding: 5px;
+  height: 20px;
+  text-align: center;
+}
+#tt:hover{
+  background-color: #0f0;
+  margin: 15px;
+  padding: 5px;
+  height: 20px;
+  text-align: center;
+}
+#f:hover{
+  background-color: #f00;
+  margin: 15px;
+  padding: 5px;
+  height: 20px;
+  text-align: center;
+}
